@@ -1,0 +1,2 @@
+# communicate_data_findings
+This project has two parts, In the first part, I will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. In the second part, I will produce a short presentation that illustrates interesting properties, trends, and relationships that I discovered in  dataset.
